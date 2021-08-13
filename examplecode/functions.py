@@ -15,6 +15,3 @@ def x_squared(x):
 
 def x_cubed(x):
     return x*x*x
-
-class example:
-    def
