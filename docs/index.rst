@@ -6,14 +6,6 @@
 Welcome to examplecode's documentation!
 =======================================
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
-   functions.rst
-   formatting/index.rst
-   api/modules.rst
-
 
 
 
