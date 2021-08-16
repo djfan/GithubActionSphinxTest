@@ -1,6 +1,3 @@
-
-
-
 def x_squared(x):
     """
     A function to return the square of X.

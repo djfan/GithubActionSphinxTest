@@ -11,6 +11,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    - name: Install Theme Package
+      run: |
+        pip install sphinx-press-theme
+        pip install furo
     - uses: actions/checkout@v1
     # Standard drop-in approach that should work for most people.
     - uses: ammaraskar/sphinx-action@master
