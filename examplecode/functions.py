@@ -1,6 +1,6 @@
 def x_squared(x):
     """
-    A function to return the square of X.
+    A function to return the square of X. hahahah
 
     Args:
         x (float): A float or numpy array
