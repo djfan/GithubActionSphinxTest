@@ -20,6 +20,14 @@ examplecode.functions module
     :undoc-members:
     :show-inheritance:
 
+examplecode.store module
+-----------------------------
+
+.. automodule:: examplecode.store
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
 
 
 
