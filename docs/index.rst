@@ -12,6 +12,7 @@ Welcome to examplecode's documentation!
 
    api/modules.rst
    functions.rst
+   google.rst
 
 
 
