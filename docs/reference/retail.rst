@@ -12,3 +12,10 @@ Store
              get_latlng2
    :undoc-members:
    :show-inheritance:
+
+
+.. automodule:: examplecode.retail.store
+   :members: get_latlng,
+             get_latlng2
+   :undoc-members:
+   :show-inheritance:
