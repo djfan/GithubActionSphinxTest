@@ -1,5 +1,10 @@
-examplecode.retail namespace
-============================
+examplecode.retail package
+==========================
+
+.. automodule:: examplecode.retail
+   :members:
+   :undoc-members:
+   :show-inheritance:
 
 Submodules
 ----------
