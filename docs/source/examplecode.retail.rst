@@ -1,11 +1,6 @@
 examplecode.retail package
 ==========================
 
-.. automodule:: examplecode.retail
-   :members:
-   :undoc-members:
-   :show-inheritance:
-
 Submodules
 ----------
 
@@ -13,3 +8,11 @@ Submodules
    :maxdepth: 4
 
    examplecode.retail.store
+
+Module contents
+---------------
+
+.. automodule:: examplecode.retail
+   :members:
+   :undoc-members:
+   :show-inheritance:
