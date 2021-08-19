@@ -13,9 +13,9 @@ Store
    :show-inheritance:
 
 From Function
----
+^^^^^^
 
-.. automodule:: examplecode.retail.function
+.. automodule:: examplecode.retail.functions
    :members: 
    :show-inheritance:
 
@@ -33,7 +33,6 @@ GOOGLE classe
 ^^^^^^^
 
 .. autoclass:: examplecode.retail.ExampleError
-    :noindex:
     :members: 
     :member-order: bysource
     :show-inheritance:
