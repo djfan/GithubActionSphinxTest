@@ -1,8 +1,8 @@
 from .store import get_latlng
 from .store import get_latlng2
 
-from google_style_example import function_with_types_in_docstring
-from google_style_example import ExampleError
+from .google_style_example import function_with_types_in_docstring
+from .google_style_example import ExampleError
 
 
 
