@@ -10,12 +10,30 @@ Store
 .. automodule:: examplecode.retail
    :members: get_latlng,
              get_latlng2
-   :undoc-members:
+   :show-inheritance:
+
+From Function
+---
+
+.. automodule:: examplecode.retail.function
+   :members: 
    :show-inheritance:
 
 
-.. automodule:: examplecode.retail.store
-   :members: get_latlng,
-             get_latlng2
-   :undoc-members:
+GOOGLE Function
+^^^^^^
+
+.. automodule:: examplecode.retail
+   :members: function_with_types_in_docstring
    :show-inheritance:
+
+
+
+GOOGLE classe
+^^^^^^^
+
+.. autoclass:: examplecode.retail.ExampleError
+    :noindex:
+    :members: 
+    :member-order: bysource
+    :show-inheritance:
