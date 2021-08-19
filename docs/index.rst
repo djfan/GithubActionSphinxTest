@@ -10,9 +10,8 @@ Welcome to examplecode's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   api/modules.rst
-   functions.rst
-   google.rst
+   source/examplecode.rst
+   source/modules.rst
 
 
 
