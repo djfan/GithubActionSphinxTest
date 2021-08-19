@@ -7,7 +7,7 @@ Welcome to examplecode's documentation!
 =======================================
 
 .. toctree::
-   examplecode
+   examplecode.rst
 
 
 
