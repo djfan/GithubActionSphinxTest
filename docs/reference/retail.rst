@@ -8,10 +8,9 @@ Store
 ^^^^^^
 
 .. automodule:: examplecode.retail
-    :noindex:
     :members: get_latlng,
-             get_latlng2,
-             function_with_types_in_docstring
+              get_latlng2,
+              function_with_types_in_docstring
    :show-inheritance:
 
 

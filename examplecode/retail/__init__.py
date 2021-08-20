@@ -9,7 +9,6 @@ from .google_style_example import ExampleError
 __all__ = [
     get_latlng,
     get_latlng2,
-
     ExampleError,
     function_with_types_in_docstring
 ]
