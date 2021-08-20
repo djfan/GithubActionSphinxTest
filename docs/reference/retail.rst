@@ -3,11 +3,15 @@ Retail
 
 Retail namespace contains all the classes related to retail stores
 
+.. automodule:: examplecode
+    :members: 
+    :show-inheritance:
 
 Store
 ^^^^^^
 
 .. automodule:: examplecode.retail
+    :noindex:
     :members: get_latlng,
               get_latlng2,
               function_with_types_in_docstring
@@ -26,5 +30,5 @@ GOOGLE classe
 .. currentmodule:: examplecode
 
 .. autosummary::
-   environment.BuildEnvironment
-   util.relative_uri
+   retail.get_latlng
+   retail.ExampleError
