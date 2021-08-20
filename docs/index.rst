@@ -3,7 +3,7 @@ Examplecode
 ===========
 
 .. toctree::
-
+  reference/intro.rst
   reference/others.rst
   reference/retail.rst
 
@@ -11,6 +11,5 @@ Examplecode
 Indices and tables
 ==================
 
-* :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
