@@ -11,7 +11,7 @@ Store
     :members: get_latlng,
               get_latlng2,
               function_with_types_in_docstring
-   :show-inheritance:
+    :show-inheritance:
 
 
 GOOGLE classe
@@ -21,3 +21,10 @@ GOOGLE classe
     :members: 
     :member-order: bysource
     :show-inheritance:
+
+
+.. currentmodule:: examplecode
+
+.. autosummary::
+   environment.BuildEnvironment
+   util.relative_uri

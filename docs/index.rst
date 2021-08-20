@@ -4,7 +4,7 @@ Examplecode
 
 .. toctree::
 
-  examplecode
+  examplecode.rst
 
 
 
