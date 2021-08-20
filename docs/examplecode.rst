@@ -1,1 +1,2 @@
 .. include:: reference/retail.rst
+.. include:: reference/others.rst

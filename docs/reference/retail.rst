@@ -3,9 +3,6 @@ Retail
 
 Retail namespace contains all the classes related to retail stores
 
-.. automodule:: examplecode
-    :members: 
-    :show-inheritance:
 
 Store
 ^^^^^^
@@ -18,17 +15,23 @@ Store
     :show-inheritance:
 
 
+
+Functions
+^^^^^^^^^
+
+.. automodule:: examplecode.retail
+    :noindex:
+    :members: x_cubed,
+              x_squared
+    :show-inheritance:
+
+
+
 GOOGLE classe
 ^^^^^^^
 
 .. autoclass:: examplecode.retail.ExampleError
+    :noindex:
     :members: 
     :member-order: bysource
     :show-inheritance:
-
-
-.. currentmodule:: examplecode
-
-.. autosummary::
-   retail.get_latlng
-   retail.ExampleError

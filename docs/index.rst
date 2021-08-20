@@ -7,8 +7,6 @@ Examplecode
   examplecode.rst
 
 
-
-
 Indices and tables
 ==================
 
