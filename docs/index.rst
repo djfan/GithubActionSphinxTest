@@ -2,8 +2,10 @@
 Examplecode
 ===========
 
+
+.. include:: reference/intro.rst
+
 .. toctree::
-  reference/intro.rst
   reference/others.rst
   reference/retail.rst
 
