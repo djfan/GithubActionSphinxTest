@@ -11,14 +11,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Install Theme Package
-      run: |
-        pip install sphinx-press-theme
-        pip install furo
     - uses: actions/checkout@v1
     - uses: ammaraskar/sphinx-action@master
       with:
+        pre-build-command: "pip install -e ."
         docs-folder: "docs/"
+        
     - uses: actions/upload-artifact@v1
       with:
         name: DocumentationHTML
