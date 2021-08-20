@@ -21,7 +21,7 @@ Functions
 ++++++++++++
 
 
-.. automodule:: retail
+.. automodule:: retail.functions
     :members: x_cubed,
               x_squared
     :undoc-members:
