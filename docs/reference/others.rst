@@ -1,6 +1,9 @@
 Others
----
+-----------
+Other stuff
 
+Others function
+++++++++++++
 
 .. automodule:: examplecode.others
     :noindex:

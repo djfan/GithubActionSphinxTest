@@ -1,11 +1,12 @@
 Retail
----
+-----------
 
 Retail namespace contains all the classes related to retail stores
 
 
 Store
-^^^^^^
+++++++++++++
+
 
 .. automodule:: examplecode.retail
     :noindex:
@@ -17,7 +18,8 @@ Store
 
 
 Functions
-^^^^^^^^^
+++++++++++++
+
 
 .. automodule:: examplecode.retail
     :noindex:
@@ -28,7 +30,8 @@ Functions
 
 
 GOOGLE classe
-^^^^^^^
+++++++++++++
+
 
 .. autoclass:: examplecode.retail.ExampleError
     :noindex:
