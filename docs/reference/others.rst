@@ -6,7 +6,7 @@ Other stuff
 Others function
 +++++++++++++++++++
 
-.. automodule:: examplecode.others
+.. automodule:: others
     :members: underline
     :undoc-members:
     :show-inheritance:

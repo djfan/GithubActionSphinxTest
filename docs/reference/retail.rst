@@ -21,7 +21,7 @@ Functions
 ++++++++++++
 
 
-.. automodule:: examplecode.retail
+.. automodule:: retail
     :members: x_cubed,
               x_squared
     :undoc-members:
@@ -33,7 +33,7 @@ GOOGLE classe
 +++++++++++++++++++
 
 
-.. autoclass:: examplecode.retail.ExampleError
+.. autoclass:: retail.ExampleError
     :members: 
     :member-order: bysource
     :undoc-members:
