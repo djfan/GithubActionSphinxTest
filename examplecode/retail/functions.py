@@ -12,3 +12,6 @@ def x_squared(x):
 
 def x_cubed(x):
     return x*x*x
+
+def x_cubed2(x):
+    return x*x*x
