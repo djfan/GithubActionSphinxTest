@@ -4,7 +4,8 @@ Examplecode
 
 .. toctree::
 
-  examplecode.rst
+  reference/others.rst
+  reference/retail.rst
 
 
 Indices and tables
