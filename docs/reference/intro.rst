@@ -1,5 +1,5 @@
 Introduction
-------------
+---------------
 
 The CARTOframes API is organized into three parts: `auth`, `data`, and `viz`.
 
