@@ -1,15 +1,10 @@
 Introduction
 ---------------
 
-The CARTOframes API is organized into three parts: `auth`, `data`, and `viz`.
+FLUTE pkg
 
 Hello
 +++++++++++++++
+test1adfadfadfadfadf
 
-test1
-
-hi
-+++++++++++++++
-
-test2
 
